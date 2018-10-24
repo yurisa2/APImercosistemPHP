@@ -1,9 +1,9 @@
 <?php
 date_default_timezone_set('America/Sao_Paulo');
 
-$wsdl_merco = 'http://erviegas.uk.to:4851/Service.svc?wsdl';  //Put here your DOMAIN
-$merco_soap_user = 'yuri';                                  // USER of the soap
-$merco_soap_password = '9999';
+$wsdl_merco = 'url';  //Put here your DOMAIN
+$merco_soap_user = 'user';                                  // USER of the soap
+$merco_soap_password = 'password';
 
 
  ?>
